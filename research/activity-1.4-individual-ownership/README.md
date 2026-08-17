@@ -318,16 +318,7 @@ These outputs are included to facilitate verification of the analysis and compar
 
 The analysis-ready datasets are reduced versions of the harmonised survey datasets and contain only variables required for the reported analyses.
 
-The original survey exports and full harmonised datasets may contain additional information that is not required for reproduction of the report and are therefore not intended for public distribution through this repository.
-
-Respondent-level data should only be made publicly available where this is consistent with:
-
-- informed-consent conditions;
-- project data-management arrangements;
-- institutional requirements; and
-- applicable data-protection legislation.
-
-If respondent-level analysis-ready datasets cannot be made publicly available, the analytical code, codebook, methodological documentation, generated outputs, and reproducibility materials can still be provided through this repository. Applicable data-access conditions should then be described here.
+The original survey exports and full harmonised datasets contain additional information that is not required for reproduction of the report and are therefore not intended for public distribution through this repository.
 
 ---
 
