@@ -222,9 +222,7 @@ These estimates are intended to illustrate the potential scale of product underu
 
 ### Sharing-potential indicator
 
-The sharing-potential indicator combines product ownership and underutilisation.
-
-Products with relatively high ownership and high underutilisation are of particular interest because they are commonly owned despite being used relatively infrequently. Such products may therefore be relevant candidates to consider when developing neighbourhood sharing solutions.
+The sharing-potential indicator combines ownership, underutilisation and stated willingness to borrow. It is intended as a comparative prioritisation measure and should not be interpreted as a validated prediction of actual demand or sharing-station performance.
 
 The indicator is intended as a comparative prioritisation measure and should not be interpreted as a validated prediction of actual demand for or performance of a sharing station.
 
